@@ -17,7 +17,7 @@
                     <span class="icon-bar"></span>
                     <span class="icon-bar"></span>
                 </button>
-                @Html.ActionLink("Nombre de la aplicación", "Index", "Home", New With { .area = "" }, New With { .class = "navbar-brand" })
+                @Html.ActionLink("REVISTAS", New With {.area = ""}, New With {.class = "navbar-brand"})
             </div>
         </div>
     </div>
