@@ -4,7 +4,7 @@ End Code
 
 <br />
 <div>
-    <button type="button" class="btn btn-primary">Primary</button>
+    <button type="button" class="btn btn-primary">CREAR</button>
 </div>
 <table class="table">
     <thead class="thead-dark">
