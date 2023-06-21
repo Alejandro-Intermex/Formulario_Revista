@@ -210,7 +210,7 @@
     <Content Include="Scripts\jquery-3.4.1.slim.min.map" />
     <Content Include="Scripts\jquery-3.4.1.min.map" />
     <Content Include="Views\Home\.vbhtml" />
-    <Content Include="Views\Shared\%24R27529B.vbhtml" />
+    <Content Include="Views\Shared\_Layout.vbhtml" />
   </ItemGroup>
   <ItemGroup>
     <Content Include="favicon.ico" />
