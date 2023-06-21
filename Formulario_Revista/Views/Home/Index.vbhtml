@@ -1,6 +1,8 @@
 ﻿@Code
     ViewData("Title") = "Home Page"
 End Code
+
+<br />
 <div>
     <button type="button" class="btn btn-primary">Primary</button>
 </div>
