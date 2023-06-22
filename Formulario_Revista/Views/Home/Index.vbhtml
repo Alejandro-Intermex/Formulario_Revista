@@ -4,7 +4,7 @@ End Code
 
 <br />
 <div>
-    <button type="button" class="btn btn-success" data-toggle="collapse" data-target=".navbar-collapse">
+    <button type="button" class="btn btn-success">
         <span class="icon-bar"></span>
     </button>
     @Html.ActionLink("Nuevo", "Crear", "Home", New With {.area = ""}, New With {.class = "navbar-brand"})
